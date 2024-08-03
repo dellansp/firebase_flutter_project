@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "401740598155",
+    "project_id": "miniprosanber",
+    "storage_bucket": "miniprosanber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401740598155:android:f50d500723490770f93d8e",
+        "android_client_info": {
+          "package_name": "com.example.firebase_flutter_pr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpE_cry2sOh24NBqomPqxjuWIYnQtVcLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401740598155:android:4a78b413f3fcb52af93d8e",
+        "android_client_info": {
+          "package_name": "com.example.firebase_flutter_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpE_cry2sOh24NBqomPqxjuWIYnQtVcLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
